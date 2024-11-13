@@ -1,0 +1,41 @@
+[Your Application Name] License Agreement
+
+Version 1.0
+
+Effective Date: [Insert Date]
+
+This License Agreement ("Agreement") is a legal agreement between the user of this software ("You" or "Licensee") and [Your Name or Company] ("Licensor") regarding the use of [Your Application Name] (the "Software"). By using, modifying, or otherwise engaging with the Software, You agree to be bound by the terms and conditions of this Agreement.
+
+1. License Grant
+Licensor grants You a limited, non-exclusive, non-transferable, and revocable license to use and modify the Software solely for personal or internal use, subject to the following conditions:
+
+Modification: You may modify and improve the source code for personal or internal use only.
+
+Intellectual Property Assignment: Any modifications, improvements, or derivatives made by You to the Software are automatically the property of Licensor. You assign any rights, title, or interest in the modifications to Licensor without additional compensation.
+
+No Distribution or Forking: You are strictly prohibited from distributing, sublicensing, or publicly releasing any modified or unmodified version of the Software. Furthermore, You are not allowed to create, release, or maintain independent forks of the Software.
+
+2. Ownership
+The Software, including any modifications or derivative works, remains the exclusive property of Licensor. This Agreement does not grant You any ownership interest in the Software.
+
+3. Commercial Rights
+Licensor reserves all rights to sell, license, distribute, or otherwise monetize the Software and any derivative works, regardless of contributions made by You or other parties.
+
+4. License Termination
+This license will automatically terminate if You fail to comply with any term or condition of this Agreement. Upon termination, You must cease all use and modifications of the Software.
+
+5. Disclaimer of Warranties and Limitation of Liability
+The Software is provided "as is," without any warranties, express or implied. Licensor disclaims all liability for any damages arising from the use, modification, or inability to use the Software.
+
+6. General Provisions
+This Agreement represents the complete agreement concerning the Software and may only be modified in writing by Licensor.
+
+[Your Signature or Company Name]
+[Contact Information]
+
+
+
+
+
+
+
